@@ -6,6 +6,10 @@ Chadify takes any image you give it and transforms it into chad. Not by slapping
 
 
 
+https://github.com/user-attachments/assets/a848b3ec-d0a1-4328-948a-c85594f40f0b
+
+
+
 ## How it works
 
 The program starts by loading both images and making sure they are the same size. If one is bigger than the other it shrinks the bigger one down rather than blowing the smaller one up, because stretching a small image makes it blurry and harder to work with.
